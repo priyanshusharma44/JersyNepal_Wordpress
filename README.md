@@ -18,7 +18,7 @@ We offer a wide selection of jerseys for various sports, including **Football**,
 - **Secure Payment:** Offering safe, reliable online payment options.
 - **Quick Delivery:** Fast and reliable shipping to deliver your jerseys directly to your doorstep.
 
-![Jersey Collection](assets/images/jersey-collection.jpg)
+![Jersey Collection](https://github.com/priyanshusharma44/JersyNepal_Wordpress/blob/main/Screenshot%202024-11-05%20180432.png?raw=true)
 
 ## **Getting Started**
 
