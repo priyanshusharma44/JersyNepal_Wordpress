@@ -1,0 +1,124 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10004
+Data file = C:\Users\serjo\Local Sites\dresszone\app\public/wp-content/uploads/2024/10/demo-content-import-file_2024-10-22__08-02-50.xml
+Widget file = C:\Users\serjo\Local Sites\dresszone\app\public/wp-content/uploads/2024/10/demo-widgets-import-file_2024-10-22__08-02-50.json
+Customizer file = C:\Users\serjo\Local Sites\dresszone\app\public/wp-content/uploads/2024/10/demo-customizer-import-file_2024-10-22__08-02-50.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "" (post #710)
+[WARNING] Could not find the post parent for "" (post #338)
+[WARNING] Could not find the post parent for "" (post #349)
+[WARNING] Could not find the post parent for "" (post #350)
+[WARNING] Could not find the post parent for "" (post #351)
+[WARNING] Could not find the post parent for "" (post #352)
+[WARNING] Could not find the post parent for "" (post #355)
+[WARNING] Could not find the post parent for "" (post #356)
+[WARNING] Could not find the post parent for "" (post #357)
+[WARNING] Could not find the post parent for "" (post #358)
+[WARNING] Could not find the post parent for "" (post #361)
+[WARNING] Could not find the post parent for "" (post #735)
+[WARNING] Could not find the post parent for "" (post #744)
+[WARNING] Could not find the post parent for "" (post #745)
+[WARNING] Could not find the author for comment #14
+[WARNING] Could not find the author for comment #15
+[WARNING] Could not find the author for comment #19
+[WARNING] Could not find the author for comment #20
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+sidebar-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - About - Imported to Inactive
+
+sidebar-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - On sale - Imported to Inactive
+
+sidebar-5 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products by Rating list - Top rated products - Imported to Inactive
+
+sidebar-6 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - New Arrivals - Imported to Inactive
+
+Sidebar : 
+
+Search - Search - Imported
+Product Categories - Product categories - Imported
+
+Frontpage Widget Area : 
+
+OS: Banner - No Title - Imported
+OS: Featured Product Categories - Featured Categories - Imported
+OS: Products - Female Clothing - Imported
+OS: Services - No Title - Imported
+OS: Products By Category Filter - Product Category Filter - Imported
+OS: Offer Advertisement - No Title - Imported
+OS: Products - New Furnitures - Imported
+OS: Recent Blog Posts - From the blog - Imported
+
+Footer 1 : 
+
+OS: About Widget - About - Imported
+
+Footer 2 : 
+
+Products by Rating list - Top rated products - Imported
+
+Footer 3 : 
+
+Products list - Product on sale - Imported
+
+Woocommerce Sidebar : 
+
+Product Search - Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Recent Product Reviews - Recent reviews - Imported
+Products list - On sale - Imported
+
+
+
+---et-after-demo-content-import---
+

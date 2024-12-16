@@ -1,0 +1,25 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10004
+Data file = C:\Users\serjo\Local Sites\dresszone\app\public/wp-content/uploads/2024/10/demo-content-import-file_2024-10-21__08-11-30.xml
+Widget file = C:\Users\serjo\Local Sites\dresszone\app\public/wp-content/uploads/2024/10/demo-widgets-import-file_2024-10-21__08-11-30.json
+Customizer file = C:\Users\serjo\Local Sites\dresszone\app\public/wp-content/uploads/2024/10/demo-customizer-import-file_2024-10-21__08-11-30.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
