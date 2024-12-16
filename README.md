@@ -42,10 +42,20 @@ Our website is built with the following technologies:
 
 For any inquiries, please reach out to us:
 
-- **Email:** support@jersynepal.com
-- **Phone:** +977-XXX-XXXX
-- **Website:** [www.jersynepal.com](https://www.jersynepal.com)
+- **Email:** serjoramos4444@gmail.com
+- **Linkdin:** https://www.linkedin.com/in/priyanshusharma4/ 
+- **Website:** :) Locally Allocated 
 
 ---
+
+---
+
+## **Copyright**
+
+© 2024 **JersyNepal**. All rights reserved.  
+This repository and all its contents, including but not limited to the code, images, and documentation, are protected by copyright law. Unauthorized use, reproduction, or distribution of this material is prohibited.
+
+---
+
 
 **Thank you for visiting JersyNepal, where sports meet style and performance!**
