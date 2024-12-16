@@ -6,7 +6,7 @@ Welcome to **JersyNepal**, your one-stop destination for high-quality sports jer
 
 **JersyNepal** is dedicated to offering premium-quality sportswear to athletes across Nepal. Our mission is to bring durable, comfortable, and high-performance jerseys to sports enthusiasts. We use advanced fabrics designed for breathability, flexibility, and longevity, ensuring that you perform your best, whether on the field or in the stands.
 
-![Sports Jersey](assets/images/sports-jersey.jpg)
+![Sports Jersey](https://github.com/priyanshusharma44/JersyNepal_Wordpress/blob/main/Screenshot%202024-11-05%20180406.png?raw=true)
 
 We offer a wide selection of jerseys for various sports, including **Football**, **Basketball**, **Cricket**, and more. Our goal is to support and promote sports culture in Nepal, providing top-tier apparel to every athlete and fan.
 
