@@ -44,7 +44,7 @@ For any inquiries, please reach out to us:
 
 - **Email:** serjoramos4444@gmail.com
 - **Linkdin:** https://www.linkedin.com/in/priyanshusharma4/ 
-- **Website:** :) Locally Allocated 
+- **Website:** https://priyanshusharma44.github.io/profile/
 
 ---
 
