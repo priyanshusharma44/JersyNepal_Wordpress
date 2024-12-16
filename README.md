@@ -1,1 +1,0 @@
-# JersyNepal_Wordpress
