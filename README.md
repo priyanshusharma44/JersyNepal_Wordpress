@@ -1,6 +1,6 @@
 # **JersyNepal - Official Sports Jersey Store**
 
-Welcome to **JersyNepal**, your one-stop destination for high-quality sports jerseys. We specialize in providing comfortable, durable, and stylish jerseys for athletes, sports teams, and fans. Our platform ensures a seamless shopping experience with a wide range of sportswear tailored to your needs.
+Welcome to **JersyNepal**, your one-stop destination for high-quality sports jerseys. We specialize in providing comfortable, durable, and stylish jerseys for athletes, sports teams, and fans. Our platform ensures a seamless shopping experience with a wide range of sportswear tailored to your needs....
 
 ## **About JersyNepal**
 
